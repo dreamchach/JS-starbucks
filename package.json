@@ -1,0 +1,24 @@
+{
+  "name": "js-starbucks",
+  "version": "1.0.0",
+  "description": "- [] 웹페이지 완성\r - [] typescript 사용\r - [] class 사용",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamchach/JS-starbucks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamchach/JS-starbucks/issues"
+  },
+  "homepage": "https://github.com/dreamchach/JS-starbucks#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
